@@ -5,9 +5,9 @@ This repo is a collection of my C++ programming assignments from my CSCI 1 class
 ## Assignments
 
 ### Module 2
-- [Q1 — Square a number](assignments/module-02/Q1/main1.cpp) - Asks the user for a number and prints its square.
-- [Q2 — Item total](assignments/module-02/Q2/main2.cpp) - Takes the names and prices of three items and calculates their total cost.
-- [Q3 — Division and remainder](assignments/module-02/Q3/main.cpp) - Divides two user-provided integers and displays the quotient and remainder.
+- [Q1 - Square a number](assignments/module-02/Q1/main1.cpp) - Asks the user for a number and prints its square.
+- [Q2 - Item total](assignments/module-02/Q2/main2.cpp) - Takes the names and prices of three items and calculates their total cost.
+- [Q3 - Division and remainder](assignments/module-02/Q3/main.cpp) - Divides two user-provided integers and displays the quotient and remainder.
 
 ### Module 3
 - [Input and characters](assignments/module-03/Module3/main1.cpp) - Practices reading an integer and a character from the user.
